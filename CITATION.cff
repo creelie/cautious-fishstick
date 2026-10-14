@@ -10,6 +10,14 @@ authors:
     email: d.bhattacharjee@erl-forschung.de
 version: 1.0.0
 date-released: 2026-10-14
+doi: 10.5281/zenodo.23376891
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23376891
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23376892
+    description: "Version 1.0.0"
 license: MIT
 repository-code: "https://github.com/creelie/cautious-fishstick"
 keywords:
